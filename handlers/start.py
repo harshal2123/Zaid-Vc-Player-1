@@ -55,16 +55,16 @@ async def start_(client: Client, message: Message):
                         "💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/VENOMxCRAZY")
                 ],[
                     InlineKeyboardButton(
-                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Zaid_Support"
+                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/global_girls_and_boys_chatting2"
                     ),
                     InlineKeyboardButton(
-                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Zaid_Updates")
+                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/S3D_OP")
                 ],[
                     InlineKeyboardButton(
-                        "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/Zaid_Team1")
+                        "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/global_girls_and_boys_chatting2")
                 ],[
                     InlineKeyboardButton(
-                        "😉 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ😍", url="https://github.com/Itsunknown-12/Zaid-Vc-Player"
+                        "😉 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ😍", url="TERI MAKA BHOXDA NIKAL "
                     )
                 ]
             ]
@@ -84,7 +84,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/girls_and_boys_chatting2"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/global_girls_and_boys_chatting2"
                     ),
                     InlineKeyboardButton(
                         "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/S3D_OP"
@@ -157,7 +157,7 @@ async def help_(client: Client, message: Message):
 @Client.on_message(command(["ping", f"ping@{BOT_USERNAME}"]) & ~filters.edited)
 async def ping_pong(client: Client, message: Message):
     start = time()
-    m_reply = await message.reply_text("ᴢ ᴘɪɴɴɢ...")
+    m_reply = await message.reply_text(V Pɪɴɴɢ...")
     delta_ping = time() - start
     await m_reply.edit_text(
         "V `ᴘᴏɴɢ!!`\n"
