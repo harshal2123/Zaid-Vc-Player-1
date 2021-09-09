@@ -84,10 +84,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/Zaid_Support"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/girls_and_boys_chatting2"
                     ),
                     InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Zaid_Updates"
+                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/S3D_OP"
                     )
                 ]
             ]
@@ -160,8 +160,8 @@ async def ping_pong(client: Client, message: Message):
     m_reply = await message.reply_text("ᴢ ᴘɪɴɴɢ...")
     delta_ping = time() - start
     await m_reply.edit_text(
-        "𝚣 `ᴘᴏɴɢ!!`\n"
-        f"🇿  `{delta_ping * 1000:.3f} ᴍꜱ`"
+        "V `ᴘᴏɴɢ!!`\n"
+        f"V `{delta_ping * 1000:.3f} ᴍꜱ`"
     )
 
 
