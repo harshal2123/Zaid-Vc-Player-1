@@ -64,7 +64,7 @@ async def start_(client: Client, message: Message):
                         "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/global_girls_and_boys_chatting2")
                 ],[
                     InlineKeyboardButton(
-                        "😉 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ😍", url="TERI MAKA BHOXDA NIKAL "
+                        "😉 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ😍", url="https://pornhub.com "
                     )
                 ]
             ]
